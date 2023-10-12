@@ -1,0 +1,90 @@
+*{
+    box-sizing: border-box;
+}
+
+header{
+margin:10px;
+padding: 10px;
+background-color: dodgerblue;
+display:flex;
+flex-wrap: wrap;
+justify-content: space-between;
+align-items: center;
+}
+
+nav a{
+    text-decoration: none; 
+    padding: 20px;
+}
+nav{
+    display: flex;
+}
+
+#profilepic{
+    border-radius: 60px;
+}
+#AboutMe {
+    display: flex;
+    flex-wrap: wrap;
+}
+aside{
+    display: flex;
+    justify-content: center;
+    flex:30%;
+    align-items: center;
+}
+#AboutMe p{
+    flex:70%;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+#Work{
+    display: flex;
+    flex-wrap: wrap;
+}
+#projects {
+   flex:70%;
+  }
+  .card{
+    border-style: solid;
+    border-width: 1px;
+    width: 100%;
+  }
+  .card img {
+    width: 100%;
+  }
+.cards{
+    display: flex;
+    flex-wrap: wrap;
+}
+  .cardone {
+    border-style: solid;
+    border-width: 1px;
+    width: 50%;
+   
+  }
+ 
+  .cardone img {
+    width: 100%;
+  }
+ 
+ 
+#contactinfo{
+    display:flex;
+    flex-wrap: wrap;
+    
+    
+}
+#contactinfo section{
+    flex:70%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-around;
+    text-decoration: underline;
+    color: cornflowerblue;
+    
+}
+
+footer a{
+    color: cornflowerblue;
+}
