@@ -9,18 +9,21 @@ display:flex;
 flex-wrap: wrap;
 justify-content: space-between;
 align-items: center;
+padding: 10px;
+}
+nav{
+  display: flex;
+  
 }
 
 nav a{
     text-decoration: none; 
-    padding: 20px;
-}
-nav{
-    display: flex;
+padding: 20px;
 }
 
+
 #profilepic{
-    border-radius: 60px;
+    border-radius: 50%;
 }
 #AboutMe {
     display: flex;
@@ -31,10 +34,13 @@ aside{
     justify-content: center;
     flex:30%;
     align-items: center;
+    color: rgb(59, 59, 185);
 }
 #AboutMe p{
     flex:70%;
     font-family: Arial, Helvetica, sans-serif;
+    padding: 50px;
+    border-left: solid rgb(124, 124, 184);
 
 }
 #Work{
@@ -43,15 +49,34 @@ aside{
 }
 #projects {
    flex:70%;
+   padding-left: 50px;
+   border-left: solid rgb(124, 124, 184);
   }
   .card{
     border-style: solid;
     border-width: 3px;
     width: 100%;
     border-color: darkslateblue;
+    position: relative;
+    
+  
   }
   .card img {
     width: 100%;
+  }
+  .title{
+    border-style: solid;
+    border-width: 2px;
+    width: 20%;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: darkslateblue;
+    position: absolute;
+    top:50%;
+    left: 0;
+    border-color: darkslateblue;
+
   }
 .cards{
     display: flex;
@@ -65,6 +90,7 @@ aside{
     border-width: 3px;
     width: 49.6%;
     border-color: darkslateblue;
+    position: relative;
 
   }
  
@@ -76,7 +102,7 @@ aside{
 #contactinfo{
     display:flex;
     flex-wrap: wrap;
-    
+   
     
 }
 #contactinfo section{
@@ -87,8 +113,9 @@ aside{
     text-decoration: underline;
     color: cornflowerblue;
     margin-top: 10px;
-    
-}
+    padding-left: 50px;
+    border-left: solid rgb(124, 124, 184);
+  }
 
 footer a{
     color: cornflowerblue;
