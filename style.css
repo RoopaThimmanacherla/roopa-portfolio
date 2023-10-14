@@ -1,3 +1,6 @@
+:root {
+  --color: rgb(124, 124, 184);
+}
 * {
   box-sizing: border-box;
 }
@@ -38,7 +41,7 @@ aside {
   flex: 70%;
   font-family: Arial, Helvetica, sans-serif;
   padding-left: 50px;
-  border-left: solid rgb(124, 124, 184);
+  border-left: solid var(--color);
 }
 #Work {
   display: flex;
@@ -47,7 +50,7 @@ aside {
 #projects {
   flex: 70%;
   padding-left: 50px;
-  border-left: solid rgb(124, 124, 184);
+  border-left: solid var(--color);
 }
 .card {
   border-style: solid;
@@ -66,11 +69,11 @@ aside {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  background-color: rgb(124, 124, 184);
+  background-color: var(--color);
   position: absolute;
   top: 50%;
   left: 0;
-  border-color: rgb(124, 124, 184);
+  border-color: var(--color);
 }
 .cards {
   display: flex;
