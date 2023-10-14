@@ -1,10 +1,11 @@
+/*variable stores the color for work background*/
 :root {
   --color: rgb(124, 124, 184);
 }
 * {
   box-sizing: border-box;
 }
-
+/*Sets header background and make it flexible*/
 header {
   margin: 10px;
   background-color: dodgerblue;
@@ -22,7 +23,7 @@ nav a {
   text-decoration: none;
   padding: 20px;
 }
-
+/*Transforming the image*/
 #profilepic {
   border-radius: 50%;
 }
@@ -30,6 +31,7 @@ nav a {
   display: flex;
   flex-wrap: wrap;
 }
+/* Sets the sidebar width to 30% of body width and makes flexable*/
 aside {
   display: flex;
   justify-content: center;
@@ -37,6 +39,8 @@ aside {
   align-items: center;
   color: rgb(59, 59, 185);
 }
+/* Sets the AboutMe section  width to 70% of body width */
+
 #AboutMe p {
   flex: 70%;
   font-family: Arial, Helvetica, sans-serif;
@@ -47,11 +51,14 @@ aside {
   display: flex;
   flex-wrap: wrap;
 }
+
+/* Sets the projects section  width to 70% of body width */
 #projects {
   flex: 70%;
   padding-left: 50px;
   border-left: solid var(--color);
 }
+/*Create a plceholder to store image*/
 .card {
   border-style: solid;
   border-width: 3px;
@@ -62,6 +69,8 @@ aside {
 .card img {
   width: 100%;
 }
+
+/*Create a placeholder to display the name of the project*/
 .title {
   border-style: solid;
   border-width: 2px;
@@ -75,12 +84,15 @@ aside {
   left: 0;
   border-color: var(--color);
 }
+/*Create a placeholder to store images*/
+
 .cards {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
   margin-top: 10px;
 }
+/*Create a placeholder to store image having half of the parent width*/
 
 .cardone {
   border-style: solid;
@@ -91,7 +103,7 @@ aside {
   flex-wrap: wrap;
   position: relative;
 }
-
+/*sets the image width to 100%of the parent*/
 .cardone img {
   width: 100%;
 }
@@ -100,6 +112,8 @@ aside {
   display: flex;
   flex-wrap: wrap;
 }
+/* Sets the contactMe  width to 70% of body width */
+
 #contactinfo section {
   flex: 70%;
   display: flex;
@@ -111,11 +125,12 @@ aside {
   padding-left: 50px;
   border-left: solid rgb(124, 124, 184);
 }
-
+/*serts footer background color*/
 footer a {
   color: cornflowerblue;
 }
 
+/*Media query makes screen responsive for iphone*/
 @media screen and (max-width: 576px) {
   .cards {
     flex-direction: column;
@@ -146,6 +161,7 @@ footer a {
     padding: 0;
   }
 }
+/*Media query makes screen responsive for tab*/
 @media screen and(max-width: 768px) {
   nav {
     width: 100%;
