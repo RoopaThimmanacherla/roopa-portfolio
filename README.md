@@ -111,3 +111,22 @@ You are required to submit BOTH of the following for review:
 * Github Repository url: https://github.com/RoopaThimmanacherla/roopa-portfolio
 
 * Deployed Application url:https://roopathimmanacherla.github.io/roopa-portfolio/
+
+*  Desktop view of the deployed application:
+
+ 
+
+![1](https://github.com/RoopaThimmanacherla/roopa-portfolio/assets/144958836/15a8def4-0d31-4514-9d0d-1128319e4309)
+
+
+
+
+![2](https://github.com/RoopaThimmanacherla/roopa-portfolio/assets/144958836/4df9e2a7-8d46-4883-8f23-8e8fd7a0b3ba)
+
+* iphone view of the deployed application:
+
+![3](https://github.com/RoopaThimmanacherla/roopa-portfolio/assets/144958836/9e5e2b6a-7807-400f-8013-f4583ecdef01)
+
+
+![4](https://github.com/RoopaThimmanacherla/roopa-portfolio/assets/144958836/d815c3ac-7cc2-4cdc-8382-2ed4bef0ee03)
+
