@@ -106,8 +106,14 @@ You are required to submit BOTH of the following for review:
 
 - Created a website named "roopa-portfolio" which contains the current work samples of the employee which makes easier for the employer to get to know about the candiadate skill set and can easily reach to the candidate through the contact info on the site.
 
+* For now linked the Horesion marketing site and HTML/CSS work to the webpage and left the remaining placeholders for javascript nodejs and react.
+
 - Also employer view the site on various screens and devices like ipad and iphone.
 
 * Github Repository url: https://github.com/RoopaThimmanacherla/roopa-portfolio
 
 * Deployed Application url:https://roopathimmanacherla.github.io/roopa-portfolio/
+
+## References
+
+- Referred to w3schools and MDN docs for sytax and to the activities in the module1 and module2 which really helped me .Thanks for the instructor for designing the course so well.
