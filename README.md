@@ -126,6 +126,12 @@ You are required to submit BOTH of the following for review:
 
 ![4](https://github.com/RoopaThimmanacherla/roopa-portfolio/assets/144958836/d815c3ac-7cc2-4cdc-8382-2ed4bef0ee03)
 
+* ipad view of deployed application:
+
+.![ipad](https://github.com/RoopaThimmanacherla/roopa-portfolio/assets/144958836/79694d3b-f840-4fb1-a3b9-05b49042ce04)
+
+
 ## References
 
 - Referred to w3schools and MDN docs for sytax and to the activities in the module1 and module2 which really helped me .Thanks for the instructor for designing the course so well.
+
