@@ -122,13 +122,12 @@ You are required to submit BOTH of the following for review:
 
 - iphone view of the deployed application:
 
-![3](https://github.com/RoopaThimmanacherla/roopa-portfolio/assets/144958836/9e5e2b6a-7807-400f-8013-f4583ecdef01)
+![iphone](https://github.com/RoopaThimmanacherla/roopa-portfolio/assets/144958836/195e064c-c737-4e78-a4f5-ad3af6262e56)
 
-![4](https://github.com/RoopaThimmanacherla/roopa-portfolio/assets/144958836/d815c3ac-7cc2-4cdc-8382-2ed4bef0ee03)
 
 * ipad view of deployed application:
+![ipad](https://github.com/RoopaThimmanacherla/roopa-portfolio/assets/144958836/77b6d03e-de69-41ed-b8b7-cd789fe1e7a5)
 
-.![ipad](https://github.com/RoopaThimmanacherla/roopa-portfolio/assets/144958836/79694d3b-f840-4fb1-a3b9-05b49042ce04)
 
 
 ## References
