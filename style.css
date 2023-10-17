@@ -130,6 +130,21 @@ footer a {
   color: cornflowerblue;
 }
 
+/*Media query makes screen responsive for tab*/
+
+@media screen and (max-width: 768px) {
+  nav {
+    width: 100%;
+    justify-content: flex-end;
+  }
+  .title {
+    width: fit-content !important;
+  }
+  .card {
+    width: 100%;
+  }
+}
+
 /*Media query makes screen responsive for iphone*/
 @media screen and (max-width: 576px) {
   .cards {
@@ -152,7 +167,7 @@ footer a {
   nav {
     flex-direction: column;
     width: 100%;
-    align-items: center;
+    align-items: center;0
   }
   nav a h3 {
     margin: 0;
@@ -161,13 +176,4 @@ footer a {
     padding: 0;
   }
 }
-/*Media query makes screen responsive for tab*/
-@media screen and(max-width: 768px) {
-  nav {
-    width: 100%;
-    justify-content: flex-end;
-  }
-  .title {
-    width: fit-content;
-  }
-}
+
